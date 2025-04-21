@@ -1,1 +1,1 @@
-www.rightproperty.services
+rightproperty.services
